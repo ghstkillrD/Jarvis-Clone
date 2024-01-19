@@ -1,2 +1,4 @@
 # Jarvis-Clone
-Jarvis Clone AI with Chat GPT API
+Jarvis Clone using OpenAI API
+
+**Use a new OpenAI API key because the current key is disabled.**
