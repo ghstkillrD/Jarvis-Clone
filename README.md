@@ -14,7 +14,7 @@ Jarvis is a virtual assistant program built using Python and OpenAI API. Inspire
 - OpenAI API key
 
 ## Installation
-1. Clone the repository: **git clone https://github.com/your_username/jarvis.git**
+1. Clone the repository: **git clone https://github.com/ghstkillrD/jarvis.git**
 2. Install dependencies: **pip install -r requirements.txt**
 3. Obtain an OpenAI API key and replace **'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'** with your key in the **openai.api_key** variable within the **jarvis.py** file.
 
