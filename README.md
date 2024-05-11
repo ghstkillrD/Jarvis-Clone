@@ -22,9 +22,6 @@ Jarvis is a virtual assistant program built using Python and OpenAI API. Inspire
 1. Run the jarvis.py script: **python jarvis.py**
 2. Speak "Jarvis" to activate the assistant and begin giving voice commands.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - This project utilizes the OpenAI API for natural language processing.
 - Special thanks to the developers of the **speech_recognition** and **pyttsx3** libraries for their contributions to this project.
